@@ -1,0 +1,7 @@
+psycopg>=3.2.3
+loguru>=0.6.0
+python-dotenv~=1.0.1
+PyQt6~=6.7.1
+PyQt5~=5.15.11
+pydantic~=2.10.2
+mimesis~=18.0.0
